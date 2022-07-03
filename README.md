@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github.com](https://github.com/tymino/frontendmentor_product-preview-card-component)
+- Live Site URL: [surge.sh](https://tymino-product-preview-card-component.surge.sh/)
 
 ## My process
 
@@ -38,5 +38,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@tymino](https://www.frontendmentor.io/profile/tymino)
